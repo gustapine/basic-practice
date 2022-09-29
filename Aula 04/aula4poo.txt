@@ -1,0 +1,8 @@
+Aula 4 - 26/08
+
+POO
+
+- Fazer uma pasta vazia no Desktop
+- abrir no vscode
+- esperar uma caixa no canto
+- clicar em 'yes'

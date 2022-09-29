@@ -1,0 +1,15 @@
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\obj\Debug\net6.0\Aula 04.csproj.AssemblyReference.cache
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\obj\Debug\net6.0\Aula 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\obj\Debug\net6.0\Aula 04.AssemblyInfoInputs.cache
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\obj\Debug\net6.0\Aula 04.AssemblyInfo.cs
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\obj\Debug\net6.0\Aula 04.csproj.CoreCompileInputs.cache
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\bin\Debug\net6.0\Aula 04.exe
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\bin\Debug\net6.0\Aula 04.deps.json
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\bin\Debug\net6.0\Aula 04.runtimeconfig.json
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\bin\Debug\net6.0\Aula 04.dll
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\bin\Debug\net6.0\Aula 04.pdb
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\obj\Debug\net6.0\Aula 04.dll
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\obj\Debug\net6.0\refint\Aula 04.dll
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\obj\Debug\net6.0\Aula 04.pdb
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\obj\Debug\net6.0\Aula 04.genruntimeconfig.cache
+C:\Users\g_hen\OneDrive - Católica SC\Área de Trabalho\Aula 04\obj\Debug\net6.0\ref\Aula 04.dll
